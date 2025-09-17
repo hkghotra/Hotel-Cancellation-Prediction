@@ -1,5 +1,5 @@
 # Hotel Cancellation Classification 🏨  
-By Dharsaa Bhagudeva, AJ Chen, Adam Drakich, Harpreet Ghotra, Kate Percy-Robb
+By: Dharsaa Bhagudeva, AJ Chen, Adam Drakich, Harpreet Ghotra, Kate Percy-Robb
 
 This project was completed as the final project for **MSE 436: Decision Support Systems**  
 
